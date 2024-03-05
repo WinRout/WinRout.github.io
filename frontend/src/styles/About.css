@@ -1,0 +1,10 @@
+.about-section {
+    position: relative;
+    display: flex;
+    margin-top: 70px;
+    padding: 100px;
+}
+
+.typewriter {
+    font-size:x-large
+}
